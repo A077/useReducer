@@ -1,0 +1,16 @@
+h1 {
+    font-family: Consolas, SansSerif, serif;
+}
+
+.changers__item_color_black{
+    color: black;
+}
+.changers__item_color_red{
+    color: red;
+}
+.changers__item_color_green{
+    color: green;
+}
+.changers__item_color_blue{
+    color: blue;
+}
